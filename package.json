@@ -17,6 +17,7 @@
     "dependency-audit": "npx improved-yarn-audit --ignore-dev-deps"
   },
   "dependencies": {
+    "chart.js": "^4.4.0",
     "@babel/core": "^7.0.0",
     "@formschema/native": "^2.0.0-beta.6",
     "@sentry/tracing": "^7.102.1",
